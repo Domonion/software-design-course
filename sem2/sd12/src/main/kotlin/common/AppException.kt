@@ -1,0 +1,1 @@
+data class AppException(override val message: String) : Exception()

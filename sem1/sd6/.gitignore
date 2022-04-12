@@ -1,0 +1,12 @@
+.idea
+.idea/
+.idea/*
+build
+*/build/*
+build/*
+.gradle
+.gradle/
+gradle/
+gradle
+gradlew
+gradlew.bat
